@@ -1,6 +1,5 @@
 # Rare Diseases
-Aide memoire for rare disease initiatives and resources
-Much is going on in the domain of rare diseases
+Aide memoire for rare disease initiatives and resources, as much is going on in the domain of rare diseases
 
 ## Initiatives and organizations
 
