@@ -10,9 +10,13 @@ Aide memoire for rare disease initiatives and resources, as much is going on in 
 * [ERICA](https://erica-rd.eu/) - European Rare Disease Research Coordination and Support Action (2021-2025)
 * [EURORDIS](https://www.eurordis.org/) - European Organisation for Rare Diseases.
   * alliance of over 1000 rare disease patient organisations from 74 countries
+* [GARD](https://rarediseases.info.nih.gov/) - [USA] Genetic and Rare Diseases Information Center
 * [IRDiRC](https://irdirc.org/) - International Rare Disease Research Consortium
 * [JARDIN](https://jardin-ern.eu/) - Joint Action on integration of ERNs into national healthcare Systems (Feb 2024-Feb 2027)
+* [NORD](https://rarediseases.org/) - [USA] National Organization for Rare Disorders
 * [Orphanet](https://www.orpha.net/) - Consortium of 40 countries, within Europe and across the globe, gathering and improving knowledge on rare diseases so as to improve the diagnosis, care and treatment of patients with rare diseases
 * [RDI](https://www.rarediseasesinternational.org/) - Rare Diseases International
   * global alliance of people living with a rare disease of all nationalities across all rare diseases
+* [Realise D](https://realised-ihi.eu/)
+  * to generate a novel comprehensive methodological and operational approach to design and conduct clinical trials for (ultra) rare diseases
 * [VSOP](https://vsop.nl/) - [Dutch] vereniging [met] als doel de kwaliteit van leven te bevorderen van patiënten met zeldzame en/of genetische aandoeningen, hun naasten, familie en nakomelingen.
