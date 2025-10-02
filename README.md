@@ -15,6 +15,7 @@ Aide memoire for rare disease initiatives and resources, as much is going on in 
 * [JARDIN](https://jardin-ern.eu/) - Joint Action on integration of ERNs into national healthcare Systems (Feb 2024-Feb 2027)
 * [NORD](https://rarediseases.org/) - [USA] National Organization for Rare Disorders
 * [Orphanet](https://www.orpha.net/) - Consortium of 40 countries, within Europe and across the globe, gathering and improving knowledge on rare diseases so as to improve the diagnosis, care and treatment of patients with rare diseases
+* [RDCA-DAP](https://portal.rdca.c-path.org/) - Rare Disease Cures Accelerator-Data and Analytics Platform
 * [RDI](https://www.rarediseasesinternational.org/) - Rare Diseases International
   * global alliance of people living with a rare disease of all nationalities across all rare diseases
 * [Realise D](https://realised-ihi.eu/)
